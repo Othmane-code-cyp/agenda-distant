@@ -1,5 +1,5 @@
 public class Rappels {
     public static void main(String[] args) {
-      System.out.println("Rappel : version du collègue");
+      System.out.println("Rappel : relire le cours");
     }
 }
